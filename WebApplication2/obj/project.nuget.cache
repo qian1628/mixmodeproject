@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jqHCL4LJ0/8URYLCK3yLE5Bg872r0Q7kkIJRk08IDGMqF7GSlm5h6UUaTODduuMaFWEnDLJqj0vFiUbtGBqHfg==",
+  "dgSpecHash": "PVx1e8sWI46wxXIHlit5SpomuvDAjGKnLVPQswmp1nXhaOsoSex0m4axNYqdSM5y22KgxeQAaueZPce1wcsQ0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vsdiagtester\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\mixmodeproject\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsdiagtester\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
